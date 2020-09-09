@@ -1,2 +1,3 @@
 Talmazan Elizaveta
 Some new line from master branch
+Some new line from branch_to_merge
